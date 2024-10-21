@@ -58,6 +58,6 @@ While the Neural Network outperforms KNN, both models provide valuable insights 
 To run this project locally, you will need to clone the repository and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/yourusername/handwriting-recognition.git
+https://github.com/dendarko/handwriting-recognition-knn-neuralnet.git
 cd handwriting-recognition
 pip install -r requirements.txt
